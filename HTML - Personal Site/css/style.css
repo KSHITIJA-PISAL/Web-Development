@@ -1,0 +1,35 @@
+
+    body {
+      background-color: #ECF8F9;
+    }
+
+	img {
+		border-radius: 100%; background-color: gold;
+	}
+
+    hr {
+        border-style:dotted none none none; color:#068DA9; width: 5%; border-top-width: 9px;
+    }
+
+	h1 {
+		color:#243763; font-family:cursive ;
+	}
+
+	h1:hover{
+		color:orange;
+	}
+
+	.normal {
+		color:#068DA9;	font-family: cursive;
+	}
+	.exp {
+		color:#4a06a9;	font-family: cursive;
+	}
+
+	#fav:hover {
+		color:rgb(235, 110, 21);
+	}
+
+	a:hover{
+		color:#FF0060;
+	}
